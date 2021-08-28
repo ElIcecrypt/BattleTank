@@ -6,3 +6,4 @@
 
 *	Player tank must hit the other tanks. Once the enemy tank destroyed, player tank get score.
 *	When the player tank gets damage, he/she health bar decreases; The more damage he/she inflicts, the less the health bar will be until he/she is destroyed, and that means Game Over.
+*	In the beginning both player tank and enemy tank have full health bar and ammo.
